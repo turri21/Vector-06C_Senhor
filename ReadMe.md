@@ -1,3 +1,7 @@
+=(Vector-06C_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
 # [Vector 06C](https://en.wikipedia.org/wiki/Vector-06C) for MiSTer Platform
 
 Precise K580VM80A (i8080) Verilog model by Vslav is used in this project. Some modules from [Vector06cc](https://github.com/svofski/vector06cc) and [Bashkiria 2M](http://bashkiria-2m.narod.ru/index/fpga/0-12) were used.
