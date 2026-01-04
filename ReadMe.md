@@ -1,3 +1,10 @@
+=(Vector-06C_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: If Quartus 17.0.2 displays a crash pop up window just press cancel and let it continue with the synthesizing process.
+
+___
 # [Vector 06C](https://en.wikipedia.org/wiki/Vector-06C) for MiSTer Platform
 
 Precise K580VM80A (i8080) Verilog model by Vslav is used in this project. Some modules from [Vector06cc](https://github.com/svofski/vector06cc) and [Bashkiria 2M](http://bashkiria-2m.narod.ru/index/fpga/0-12) were used.
@@ -42,3 +49,4 @@ Copy **vector06.rom** to the root of SD card if you wish to use another BOOT ROM
 
 ### Download precompiled binaries:
 Go to [releases](https://github.com/MiSTer-devel/Vector-06C_MiSTer/tree/master/releases) folder.
+
